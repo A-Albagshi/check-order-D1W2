@@ -1,0 +1,16 @@
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\bin\Debug\net5.0\checkOrder.exe
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\bin\Debug\net5.0\checkOrder.deps.json
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\bin\Debug\net5.0\checkOrder.runtimeconfig.json
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\bin\Debug\net5.0\checkOrder.runtimeconfig.dev.json
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\bin\Debug\net5.0\checkOrder.dll
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\bin\Debug\net5.0\ref\checkOrder.dll
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\bin\Debug\net5.0\checkOrder.pdb
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\checkOrder.csprojAssemblyReference.cache
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\checkOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\checkOrder.AssemblyInfoInputs.cache
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\checkOrder.AssemblyInfo.cs
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\checkOrder.csproj.CoreCompileInputs.cache
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\checkOrder.dll
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\ref\checkOrder.dll
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\checkOrder.pdb
+C:\Users\a-22_\source\repos\checkOrder\checkOrder\obj\Debug\net5.0\checkOrder.genruntimeconfig.cache
